@@ -42,7 +42,7 @@ telegram==0.0.1
 tornado==6.0.4
 typing-extensions==3.7.4.2
 uritemplate==3.0.1
-urllib3==1.25.8
+urllib3==1.26.5
 virtualenv==20.0.16
 virtualenv-clone==0.5.4
 wincertstore==0.2
